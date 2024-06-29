@@ -1,3 +1,6 @@
+## Online Code Editor 
+This is a simple code editor implemented using React and CodeMirror, providing a customizable and extensible environment for writing and editing code.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
